@@ -7,7 +7,9 @@ Kim's porfolio
 TECHNOLOGIES USING
 
 Bootstraps - responsive design framework
+
 Intergrated wordpress as blog 
+
 HTML5/CSS3/PHP
 
 Release Date:
@@ -16,12 +18,16 @@ Release Date:
 
 Author: 
 =======================================================================
+
 Coco Kim (http://cocokim.me)
 
 Contact:
 =======================================================================
+
 Web: http://cocokim.me
+
 Email: trankimhieu1991@gmail.com
+
 Twitter: @kimtran1991
 
 
